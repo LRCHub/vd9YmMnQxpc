@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ロウワー feat. ぬゆり",
+  "base_artist": "Lanndo",
+  "createdAt": "2025-12-28T04:46:50.048089Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロウワー (feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": false,
+      "path": "select/01_ロウワー_(feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO)_25時、ナイトコードで。.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロウワー",
+      "artist": "25時、ナイトコードで。 feat. 宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO",
+      "has_synced": true,
+      "path": "select/02_ロウワー_25時、ナイトコードで。_feat._宵崎奏&朝比奈まふゆ&東雲絵名&暁山瑞希&MEIKO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ロウワー",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_ロウワー_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ロウワー",
+      "artist": "ぬゆり",
+      "has_synced": true,
+      "path": "select/04_ロウワー_ぬゆり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ロウワー",
+      "artist": "ぬゆり",
+      "has_synced": true,
+      "path": "select/05_ロウワー_ぬゆり.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ロウワー",
+      "artist": "Lanndo feat. ぬゆり",
+      "has_synced": true,
+      "path": "select/06_ロウワー_Lanndo_feat._ぬゆり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ロウワー",
+      "artist": "Lanndo feat. Nuyuri",
+      "has_synced": true,
+      "path": "select/07_ロウワー_Lanndo_feat._Nuyuri.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ロウワー feat. ぬゆり",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/08_ロウワー_feat._ぬゆり_Lanndo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ロウワー",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/09_ロウワー_Lanndo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lower One's Eyes (English Cover)【Will Stetson】「ロウワー」",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/10_Lower_One's_Eyes_(English_Cover)【Will_Stetson】「ロウワー」_Will_Stetson.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロウワー feat. ぬゆり",
+      "artist": "Lanndo, ぬゆり",
+      "has_synced": false,
+      "path": "select/pl_01_ロウワー_feat._ぬゆり_Lanndo,_ぬゆり.txt"
+    }
+  ]
+}
