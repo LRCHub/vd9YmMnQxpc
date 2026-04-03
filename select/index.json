@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ロウワー",
   "base_artist": "ぬゆり",
-  "createdAt": "2026-04-03T11:37:53.081741Z",
+  "createdAt": "2026-04-03T14:42:16.594579Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -105,8 +105,8 @@
       "source": "localdb",
       "title": "ロウワー",
       "artist": "ぬゆり",
-      "has_synced": true,
-      "path": "select/localdb_01_ロウワー_ぬゆり.lrc",
+      "has_synced": false,
+      "path": "select/localdb_01_ロウワー_ぬゆり.txt",
       "repo_name": "3sEptl-psU0"
     },
     {
@@ -114,8 +114,8 @@
       "source": "localdb",
       "title": "ロウワー",
       "artist": "ぬゆり",
-      "has_synced": false,
-      "path": "select/localdb_02_ロウワー_ぬゆり.txt",
+      "has_synced": true,
+      "path": "select/localdb_02_ロウワー_ぬゆり.lrc",
       "repo_name": "vd9YmMnQxpc"
     }
   ]
