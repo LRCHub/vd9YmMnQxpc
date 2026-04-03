@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "base_track": "ロウワー feat. ぬゆり",
-  "base_artist": "Lanndo",
-  "createdAt": "2025-12-28T04:46:50.048089Z",
+  "base_track": "ロウワー",
+  "base_artist": "ぬゆり",
+  "createdAt": "2026-04-03T11:37:53.081741Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -71,26 +71,52 @@
     {
       "id": "lrclib_9",
       "source": "lrclib",
-      "title": "ロウワー",
-      "artist": "Lanndo",
-      "has_synced": true,
-      "path": "select/09_ロウワー_Lanndo.lrc"
+      "title": "Lower One's Eyes (English Cover)【Will Stetson】「ロウワー」",
+      "artist": "Will Stetson",
+      "has_synced": false,
+      "path": "select/09_Lower_One's_Eyes_(English_Cover)【Will_Stetson】「ロウワー」_Will_Stetson.txt"
     },
     {
       "id": "lrclib_10",
       "source": "lrclib",
-      "title": "Lower One's Eyes (English Cover)【Will Stetson】「ロウワー」",
-      "artist": "Will Stetson",
-      "has_synced": false,
-      "path": "select/10_Lower_One's_Eyes_(English_Cover)【Will_Stetson】「ロウワー」_Will_Stetson.txt"
+      "title": "ロウワー",
+      "artist": "Lanndo",
+      "has_synced": true,
+      "path": "select/10_ロウワー_Lanndo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Lower one's eyes\u001fロウワー",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/11_Lower_one's_eyes_ロウワー_25時、ナイトコードで。.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "ロウワー feat. ぬゆり",
-      "artist": "Lanndo, ぬゆり",
+      "title": "ロウワー",
+      "artist": "ぬゆり",
       "has_synced": false,
-      "path": "select/pl_01_ロウワー_feat._ぬゆり_Lanndo,_ぬゆり.txt"
+      "path": "select/pl_01_ロウワー_ぬゆり.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ロウワー",
+      "artist": "ぬゆり",
+      "has_synced": true,
+      "path": "select/localdb_01_ロウワー_ぬゆり.lrc",
+      "repo_name": "3sEptl-psU0"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "ロウワー",
+      "artist": "ぬゆり",
+      "has_synced": false,
+      "path": "select/localdb_02_ロウワー_ぬゆり.txt",
+      "repo_name": "vd9YmMnQxpc"
     }
   ]
 }
